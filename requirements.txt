@@ -1,0 +1,8 @@
+insightface
+opencv-python
+cupy-cuda11x  # or cupy-cuda12x depending on your CUDA version
+torch
+torchvision
+python-dotenv
+requests
+numpy
